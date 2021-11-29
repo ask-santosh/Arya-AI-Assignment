@@ -16,6 +16,10 @@ Used RandomForest Classifier for feature selection. I can skip the scaling part 
 2. Selected top 30 features with respect to their feature importance.
 3. The best model I get is Xgboost.
 
-# Contents and files
+### Contents and files
 
+1. model_selection.py/ipynb file for evaluating model performance based on train and test log loss value.
+2. xgboost_final.ipynb file for xgboost implementation.
+3. output.csv file for predicted output  in test data(predicted output column added).
+4. 
 

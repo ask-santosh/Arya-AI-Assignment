@@ -20,6 +20,6 @@ Used RandomForest Classifier for feature selection. I can skip the scaling part 
 
 1. model_selection.py/ipynb file for evaluating model performance based on train and test log loss value.
 2. xgboost_final.ipynb file for xgboost implementation.
-3. output.csv file for predicted output  in test data(predicted output column added).
-4. 
+3. test_set.csv file for predicted output  in test data(predicted output column added).
+4. output.txt file for predicted output.
 
